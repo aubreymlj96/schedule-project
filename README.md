@@ -1,11 +1,5 @@
 # Schedule-Project-2023
 
-## Task
-
-Create a simple calendar application that allows a user to save events for each hour of a typical working day (9am&ndash;5pm) by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-
-You'll need to use the [Day.js](https://day.js.org/en/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
-
 ## User Story
 
 ```md
@@ -40,7 +34,7 @@ The following animation demonstrates the application functionality:
 
 ![The following demonstrates the expected layout of the application.](./assets/Screenshot%20of%20application.PNG)
 
-![Link to application]()
+![Link to application](https://aubreymlj96.github.io/schedule-project/)
 
 
 ## Installation
